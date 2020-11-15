@@ -1,5 +1,5 @@
 print("in total sunt 51 de exemple")
-exemplu=int(input("exemplul:"))
+exemplu=int(input("exemplul :"))
 if exemplu==1:
     from datetime import datetime
     import math
